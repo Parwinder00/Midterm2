@@ -10,7 +10,7 @@
         android:id="@+id/loginFragment"
         android:name="com.example.midterm.loginFragment"
         android:label="fragment_login"
-        tools:layout="@layout/fragment_login2" />
+        tools:layout="@layout/fragment_loginxml" />
     <fragment
         android:id="@+id/registerFragment"
         android:name="com.example.midterm.registerFragment"
